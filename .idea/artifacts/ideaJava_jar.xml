@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ideaJava:jar">
+    <output-path>$PROJECT_DIR$/../jar包</output-path>
+    <root id="archive" name="ideaJava.jar">
+      <element id="module-output" name="ideaJava" />
+    </root>
+  </artifact>
+</component>
